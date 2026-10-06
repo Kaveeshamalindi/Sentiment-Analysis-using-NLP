@@ -1,11 +1,5 @@
 # Sentiment-Analysis-using-NLP
 
-- Sentiment analysis is one of the popular downstream applications of Natural Language Processing, which determines the sentiment expressed in a piece of text. The sentiment expressed in a text is usually classified as positive or negative or neutral.
-
-# Lesson 6 - Task 2: Sentiment Analysis using NLP
-
-## 📌 Overview
-
 This project focuses on **Sentiment Analysis using Natural Language Processing (NLP)**.
 
 The goal is to train machine learning models to predict the sentiment of tweets posted about US Airlines. Each tweet is classified into one of three sentiment categories:
@@ -229,10 +223,8 @@ print("Random Forest Accuracy:", accuracy_rf)
 
 | Model                   |        Accuracy |
 | ----------------------- | --------------: |
-| Multinomial Naive Bayes | Add your result |
-| Random Forest           | Add your result |
-
-> **Note:** Replace the values above with the actual accuracy obtained from your Google Colab notebook.
+| Multinomial Naive Bayes | 0.7219945355191257 |
+| Random Forest           | 0.7482923497267759 |
 
 ---
 
@@ -264,8 +256,6 @@ Lesson-6-Sentiment-Analysis/
 └── README.md
 ```
 
-> The dataset file may be excluded from the repository depending on the project's GitHub/data-sharing requirements.
-
 ---
 
 ## 🎯 Learning Outcomes
@@ -287,19 +277,9 @@ Through this task, I learned how to:
 
 ## 🚀 Conclusion
 
-This project demonstrates a basic **NLP sentiment analysis pipeline** using tweets about US Airlines.
+- This project demonstrates a basic **NLP sentiment analysis pipeline** using tweets about US Airlines.
 
-By combining **text preprocessing, TF-IDF feature extraction, and machine learning**, the system can classify tweets as **positive, negative, or neutral**.
+- By combining **text preprocessing, TF-IDF feature extraction, and machine learning**, the system can classify tweets as **positive, negative, or neutral**.
 
-The performance of **Multinomial Naive Bayes** and **Random Forest** can then be compared using their test-set accuracy.
-
----
-
-## 👨‍💻 Author
-
-**Kaveesha Senarathne**
-
-Software Engineering Undergraduate
-
-GitHub: [Kaveeshamalindi](https://github.com/Kaveeshamalindi)
+- The performance of **Multinomial Naive Bayes** and **Random Forest** can then be compared using their test-set accuracy.
 
