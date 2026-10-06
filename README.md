@@ -1,14 +1,14 @@
 # Sentiment-Analysis-using-NLP
 
-This project focuses on **Sentiment Analysis using Natural Language Processing (NLP)**.
+- This project focuses on **Sentiment Analysis using Natural Language Processing (NLP)**.
 
-The goal is to train machine learning models to predict the sentiment of tweets posted about US Airlines. Each tweet is classified into one of three sentiment categories:
+- The goal is to train machine learning models to predict the sentiment of tweets posted about US Airlines. Each tweet is classified into one of three sentiment categories:
 
-* 😊 Positive
-* 😐 Neutral
-* 😞 Negative
+   * 😊 Positive
+   * 😐 Neutral
+   * 😞 Negative
 
-The project was completed using **Python and Google Colab**.
+- The project was completed using **Python and Google Colab**.
 
 ---
 
