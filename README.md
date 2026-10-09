@@ -246,18 +246,6 @@ Positive
 
 ---
 
-## 📁 Project Structure
-
-```text
-Lesson-6-Sentiment-Analysis/
-│
-├── Tweets.csv
-├── Sentiment_Analysis.ipynb
-└── README.md
-```
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this task, I learned how to:
